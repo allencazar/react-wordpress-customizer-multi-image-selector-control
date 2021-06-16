@@ -10,7 +10,7 @@ Wordpress Customizer Multi Image Upload Custom Control
 
 ## How to use
 
-* Download drag-sort-multi-image-upload-control.js and drag-sort-multi-image-upload-control.css stored in dist directory
+* Download drag-sort-multi-image-upload-control.js, customizer-control-script-loader.js and drag-sort-multi-image-upload-control.css stored in dist directory
 * Add/enqueue the scripts and stylesheet to your custom controller class
 ```
    public function enqueue() {
@@ -45,26 +45,6 @@ Wordpress Customizer Multi Image Upload Custom Control
 ### Deployment Dependencies
 
 * This module requires Wordpress and used in Wordpress Customizer
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
