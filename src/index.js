@@ -1,4 +1,5 @@
 require('file-loader?name=[name].[ext]!./index.html');
+require('file-loader?name=[name].[ext]!./customizer-control-script-loader.js');
 import React from 'react';
 import ReactDOM from 'react-dom';
 

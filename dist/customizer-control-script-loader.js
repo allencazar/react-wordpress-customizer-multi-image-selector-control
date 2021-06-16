@@ -1,0 +1,1 @@
+jQuery((function(){if("undefined"!=typeof MYSCRIPT&&!document.getElementById(MYSCRIPT.id)){var e=document.createElement("script");e.src=MYSCRIPT.path,e.id=MYSCRIPT.id,document.body.appendChild(e)}}));
