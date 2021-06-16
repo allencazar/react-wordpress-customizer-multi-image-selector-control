@@ -8,6 +8,8 @@ Wordpress Customizer Multi Image Upload Custom Control
 * Selected images are displayed and allowed to be sorted.
 * Final value is set as JSON string to an extenal input for Wordpress handling.
 
+![til](./drag-sort-multi-image-upload-control.gif)
+
 ## How to use
 
 * Download drag-sort-multi-image-upload-control.js, customizer-control-script-loader.js and drag-sort-multi-image-upload-control.css stored in dist directory
